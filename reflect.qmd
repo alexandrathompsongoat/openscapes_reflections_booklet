@@ -78,7 +78,10 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?*
 
-
+-   Writing: Word
+-   Citations: Zotero
+-   Software: R/RStudio, sometimes Python, State, and ArcGIS
+-   Version Control: Git and GitHub
   
 
  
@@ -116,7 +119,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?*
 
-  
+-   I have project-specific note documents, which I treat like journals/diaries, scratch workspace, and meeting notes. I usually start work with a to-do list and thinking about flow/dependences (the orer in which I need to do things), if not revisiting and reiterating high-level strategy to reorient myself.
+-   These note documents, or journals, can run into hundreds of pages. I se them to refer back to previous notes, decisions, activities, etc.
+-   I rely heavily on my work calendar, as well as my personal calendar.
 
  
 
@@ -149,10 +154,13 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
-  
-
- 
-
+-   Communication and file-sharing take place across multiple platforms: 
+  -   Email
+  -   MS Teams
+  -   OneDrive / Sharepoint
+  -   Google Drive
+  -   Organizational on-site network
+  -   Github
   
 
  
@@ -187,7 +195,10 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
-
+-   My detailed project journals. I feel like nothing is ever truly lost, even if sometimes it takes me a while to find it.
+-   Using VC gives me confidence to make and save code changes, even if I've rarely (if ever) leveraged it to recover old versions.
+-   I'm very organized, and this contributes well to overall project management in collaborative work.
+-   My intense flow focus sessions (usually in the morning) are very productive. 
   
 
  
@@ -236,7 +247,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
-
+-   Collaborative issue tracking: group notes and communication about data or methodological issues often only live in emails, Teams chats, or my personal journal. Finding them is hard, finding them quickly is harder. Especially challenging when we've made methodological choices in these fragmented correspondences.
+-   I rush, and end up working inefficiently because if I had paused, I'd have realized, for example, that I'd alread solved th eissue elsewhere, or that it doesn't need solving at all.
+-   Lack of clear scheduling deadlines. Sticking to my own.
   
 
  
@@ -282,7 +295,10 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
-  
+-   This collaborative issue tracking challenge.
+-   Pausing more.
+-   Finding time and space/energy to write.
+-   Knowing when to write (in the course of a project or task).
 
  
 
