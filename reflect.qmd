@@ -7,7 +7,18 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
-testing testing
+-   I **do** write (and generally work) best in the mornings.
+-   I work best in 90 min - to - 2 hour blocks.
+-   I need both pen and paper and an electronic document for notes.
+-   I don't work well when there is distracting noise, but headphones and ambient music help a lot.
+-   I need things to be organized. If they're not, it's probably the first thing I do in order to orient myself and focus.
+-   I come up with good ideas when I'm away from my desk (one of the reasons I try to always have pen and paper on me).
+-   I  need detailed and organized to-do lists.
+-   I'm an introvert, so I think through problems better than I talk through them.
+-   I don't like to have to try to hold a lot in my head at once, so that I can focus on generating ideas instead of remembering things (hence always writing everything down).
+-   My flow state is usually intense and fast-paced. (I should probably slow down sometimes to pause and think strategy.)
+-   I do best with clear direction / end goals.
+
 
  
 
