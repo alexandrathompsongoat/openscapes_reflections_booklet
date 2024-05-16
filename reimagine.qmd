@@ -11,7 +11,8 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Revisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?*
 
-
+I enjoy and get a lot out of knowledge sharing, seeing how other people do things.
+I enjoy showing how I do things, too. Teaching.
  
 
  
@@ -69,7 +70,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *What stands out about that place? Why are you motivated to focus on this part of your workflow?*
 
-  
+Collaborative methods. I have makeshift individual workflows, and am starting to work on projects with collaborative VC, etc. methods, and I want to further develope those, skillshare, and further advance/improve methods.
 
  
 
@@ -107,7 +108,8 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *For example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too*
 
-  
+E4ST. Ethan and Sally developed an ecosystem and managed to convert the PI to, that is functional and robust and enhances both collaboration and reproducibility.
+Regular (weekly or biweekly) meetings. Make sure check-ins take place, even if they end early.
 
  
 
@@ -145,7 +147,10 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *What are things you’d like to learn or reuse from what you’ve seen? Think from colleagues, talks, and examples online*
 
-  
+Github issues.
+Pull requests.
+Actually leveraging VC to: acecss old versions, track and document IMPORTANT METHODOLOGICAL CHANGES.
+Co-working meetings, maybe?
 
  
 
@@ -224,7 +229,11 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Think about something you enjoy doing. What qualities about yourself do you see coming through? What is important to you personally and professionally? How do you want to make people feel?*
 
-
+- Making learning new things fun
+- Making people feel included, and free to ask questions.
+- Anti-gate-keeping ("gate-opening"?)
+- Purpose
+- Learning/teaching new skills that ultimately make people's jobs easier and make more time for the fun/important/interesting stuff.
   
 
  
@@ -263,7 +272,12 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *How do you show up in your daily life at work? For example, being on time, being organized, interacting with people.*
 
-
+- I try to be early and prepared for meetings.
+- Consider and create time/space for the introverts.
+- Follow-through
+- Asking for help, honesty, creating safe space for others to ask for help.
+- Adaptive management
+- Listening
 
  
 
@@ -302,7 +316,9 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Think about that place that seems like a good place to focus. What if you brought what you have seen and want to learn to that place, along with your values? You can draw this*
 
-  
+Implementing collaborative tools, but in a way that does not make people feel overwhelemed, but, instead, empowered.
+[Fear: I feel like I need to become an expert first in order to effectively chamption, implement, and teach new methods.]
+* Suggested solution: Could find just ONE like-minded person on a team to work with to try new things!
 
  
 
